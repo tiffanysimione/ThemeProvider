@@ -8,7 +8,8 @@ import content from './content'
 
 const theme = {
   colors: {
-    header: '#ebfbff',
+    header: '#dbe3ff',
+    nav:'#ffffff',
     body: '#ffffff',
     StyledCard:'#dbe3ff',
     footer: '#003333',

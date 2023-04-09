@@ -1,8 +1,9 @@
 import styled from 'styled-components'
 
 export const StyledCard = styled.div`
-background-color: ${({ theme }) => theme.colors.StyledCard};
+background-image:linear-gradient(to right, #8000DB 0%, #1D88FE 100%);
   display: flex;
+  color:#FDFEFF;
   align-items: center;
   border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
