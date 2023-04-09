@@ -5,6 +5,9 @@ const GlobalStyles = createGlobalStyle`
   * {
     box-sizing: border-box;
   }
+
+
+  
   body {
     background: ${({ theme }) => theme.colors.body};
     color: hsl(192, 100%, 9%);
@@ -19,6 +22,7 @@ const GlobalStyles = createGlobalStyle`
   img {
     max-width: 100%;
 }
+
 
 
   

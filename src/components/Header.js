@@ -14,7 +14,7 @@ export default function Header() {
         <Nav>
           <Logo src='./images/logo.svg' alt='' />
 
-          {/* Navbar */}
+    
           <ul>
             <li><a href="ab.com">Product</a></li>
             <li><a href="ab.com">Resources</a></li>
