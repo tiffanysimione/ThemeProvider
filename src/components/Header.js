@@ -42,7 +42,7 @@ export default function Header() {
             </Button>
           </div>
 
-          <Image src='https://github.com/tiffanysimione/ThemeProvider/blob/main/public/images/Screenshot%202023-04-08%20at%2011.13.03%20AM%20Small%20Background%20Removed.png?raw=true' alt='' />
+          <Image src='https://github.com/tiffanysimione/ThemeProvider/blob/main/public/images/Screenshot%202023-04-08%20at%2011.13.03%20AM%20Small%20Background%20Removed.png?raw=true'' alt='' />
         </Flex>
       </Container>
     </StyledHeader>
