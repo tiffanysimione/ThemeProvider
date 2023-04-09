@@ -2,6 +2,8 @@ import styled from 'styled-components';
 
 export const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.header};
+    background-image: url("https://global-uploads.webflow.com/629e4fe96456f848f903e7ef/63f368bd49b46c21c6d15d75_bg-img-new-pinata-hp-v3-tiny.png");
+
   padding: 40px 0;
   position: relative;
   overflow: hidden; 

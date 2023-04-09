@@ -16,8 +16,8 @@ export default function Header() {
 
           {/* Navbar */}
           <ul>
-            <li><a href="">Product</a></li>
-            <li><a href="">Resources</a></li>
+            <li><a href="ab.com">Product</a></li>
+            <li><a href="ab.com">Resources</a></li>
             <li><a href="https://www.pinata.cloud/pricing">Pricing</a></li>
             <li><a href="https://www.pinata.cloud/about">About</a></li>
           </ul>
