@@ -2,7 +2,6 @@ import styled from 'styled-components';
 
 export const StyledHeader = styled.header`
 background-image: url(https://github.com/tiffanysimione/ThemeProvider/blob/main/public/images/Screenshot%202023-04-09%20at%202.15.14%20PM.jpeg?raw=true);
-
   padding: 40px 0;
   position: relative;
   overflow: hidden;
@@ -110,5 +109,5 @@ export const Image = styled.img`
     width: 100%;
     max-width: 300px;
   }
-`;
+`
 
