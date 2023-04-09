@@ -27,4 +27,8 @@ export const Image = styled.img`
   @media (max-width: ${({ theme }) => theme.mobile}) {
     margin: 40px 0 30px;
   }
+
+
 `
+
+
