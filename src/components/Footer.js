@@ -10,12 +10,11 @@ export default function Footer() {
 
         <Flex>
           <ul>
-            <li>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
-            </li>
-            <li>+1-543-123-4567</li>
-            <li>example@huddle.com</li>
+            <h3>
+              The Web3 Media Platform
+            </h3>
+            <li>+1-000-000-0000</li>
+            <li>example@Pinata.com</li>
           </ul>
           <ul>
             <li>About Us</li>
@@ -31,7 +30,7 @@ export default function Footer() {
 
         </Flex>
 
-        <p>&copy; 2021 Huddle. All rights reserved</p>
+        <p>&copy; 2022 Pinata. All rights reserved</p>
       </Container>
     </StyledFooter>
   )

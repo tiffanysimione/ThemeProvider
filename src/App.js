@@ -9,7 +9,8 @@ import content from './content'
 const theme = {
   colors: {
     header: '#ebfbff',
-    body: '#fff',
+    body: '#ffffff',
+    StyledCard:'#dbe3ff',
     footer: '#003333',
   },
   mobile: '768px',

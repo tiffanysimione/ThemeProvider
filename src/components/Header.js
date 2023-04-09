@@ -9,21 +9,21 @@ export default function Header() {
       <Container>
         <Nav>
           <Logo src='./images/logo.svg' alt='' />
-          <Button>Try It Free</Button>
+          <Button>Get Started</Button>
         </Nav>
 
         <Flex>
           <div>
-            <h1>Build The Community Your Fans Will Love</h1>
+            <h1>Welcome to the Pinata Academy </h1>
 
+            <h3>
+            Connect with peers, maximize your Pinata knowledge, and learn.
+              </h3>
             <p>
-              Huddle re-imagines the way we build communities. You have a voice,
-              but so does your audience. Create connections with your users as
-              you engage in genuine discussion.
-            </p>
+            From quick, practical courses to comprehensive certifications, learn everything you need to know about Web3. </p>
 
             <Button bg='#ff0099' color='#fff'>
-              Get Started For Free
+              Sign Up For Free Courses
             </Button>
           </div>
 
