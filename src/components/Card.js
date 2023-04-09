@@ -15,7 +15,7 @@ export default function Card({ item: { id, title, body, image } }) {
       </div>
       <div>
         {isOpen ? (
-          <img src='' alt='' />
+          <img src='https://github.com/tiffanysimione/ThemeProvider/blob/main/public/images/Screenshot%202023-04-08%20at%2011.13.03%20AM%20Small%20Background%20Removed.png?raw=true' alt='' />
         ) : null}
       </div>
     </StyledCard>
