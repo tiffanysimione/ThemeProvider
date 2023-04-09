@@ -12,7 +12,7 @@ export default function Header() {
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src='./images/logo.svg' alt='' />
+          <Logo src='https://github.com/tiffanysimione/PersonalProject/blob/main/react-app/public/images/Screenshot%202023-04-08%20at%2011.13.03%20AM%20Small%20Background%20Removed.png?raw=true' alt='' />
 
     
           <ul>

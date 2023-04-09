@@ -7,7 +7,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
 
-  
+
   body {
     background: ${({ theme }) => theme.colors.body};
     color: hsl(192, 100%, 9%);

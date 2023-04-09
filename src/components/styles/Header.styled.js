@@ -2,21 +2,20 @@ import styled from 'styled-components';
 
 export const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.header};
-  background-image: url("https://global-uploads.webflow.com/629e4fe96456f848f903e7ef/63f368bd49b46c21c6d15d75_bg-img-new-pinata-hp-v3-tiny.png");
   padding: 40px 0;
   position: relative;
-  overflow: hidden;
-
+  overflow: hidden; 
+  
   &:before {
     content: '';
     position: absolute;
     width: 100%;
     height: 100%;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(247, 212, 247, 1)100%); 
-    opacity: 0;
-    animation: waterfall 4s forwards;
+    opacity: 0; 
+    animation: waterfall 4s forwards; 
   }
-
+  
   @keyframes waterfall {
     0% {
       opacity: 0;
@@ -32,7 +31,6 @@ export const StyledHeader = styled.header`
     }
   }
 `;
-
 export const Nav = styled.nav`
   display: flex;
   background-color:  ${({ theme }) => theme.colors.nav};
@@ -62,21 +60,25 @@ export const Nav = styled.nav`
     color: #ba55d3 ;
   }
 
+
   @media (max-width: ${({ theme }) => theme.mobile}) {
     flex-direction: column;
   }
-`;
+`
 
 export const Logo = styled.img`
+  width: 50px;
   @media (max-width: ${({ theme }) => theme.mobile}) {
     margin-bottom: 40px;
+    width: 50px;
   }
 `;
-
 export const Image = styled.img`
   width: 375px;
   margin-left: 40px;
   @media (max-width: ${({ theme }) => theme.mobile}) {
     margin: 40px 0 30px;
   }
-`;
+`
+
+
