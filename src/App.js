@@ -14,7 +14,7 @@ const theme = {
     StyledCard:'#dbe3ff',
     footer: '#003333',
   },
-  mobile: '500px',
+  mobile: '768px',
 }
 
 function App() {
